@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "android_device_samsung_lt02-common",
+    "target_path": "device/samsung/lt02-common"
+  },
+  {
+    "repository": "android_device_samsung_mrvl-common",
+    "target_path": "device/samsung/mrvl-common"
+  },
+  {
+    "repository": "android_device_samsung_pxa986-common",
+    "target_path": "device/samsung/pxa986-common"
+  },
+  {
+    "repository": "android_kernel_samsung_lt02-common",
+    "target_path": "kernel/samsung/msm8930-common"
+  }
+]
